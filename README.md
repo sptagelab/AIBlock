@@ -1,4 +1,6 @@
 # AIBlock
+<img src="aiblock-logo.png" width="192" height="192" />
+
 International Conference on <b>A</b>pplication <b>I</b>ntelligence and <b>Block</b>chain Security Conference / Workshop Website
 
 ## Past AIBlock Events
